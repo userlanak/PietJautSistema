@@ -1,0 +1,418 @@
+# Copyright (C) 2021 BitPress
+# This file is distributed under the same license as the Bit Form plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Bit Form 1.1.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bitform\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-11T13:16:49+01:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: bitform\n"
+
+#. Plugin Name of the plugin
+msgid "Bit Form"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "bitpress.pro"
+msgstr ""
+
+#. Description of the plugin
+msgid "Wordpress form builder plugin"
+msgstr ""
+
+#. Author of the plugin
+msgid "BitPress"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.bitpress.pro"
+msgstr ""
+
+#: bitforms.php:39
+msgid "bitforms requires PHP version 5.4."
+msgstr ""
+
+#: bitforms.php:40
+msgid "Error Activating"
+msgstr ""
+
+#: includes/Admin/AdminAjax.php:61
+msgid "No Integration Found"
+msgstr ""
+
+#: includes/Admin/AdminAjax.php:67
+#: includes/Admin/AdminAjax.php:88
+#: includes/Admin/AdminAjax.php:110
+#: includes/Admin/AdminAjax.php:130
+#: includes/Admin/AdminAjax.php:155
+#: includes/Admin/AdminAjax.php:178
+#: includes/Admin/AdminAjax.php:199
+#: includes/Admin/AdminAjax.php:218
+#: includes/Admin/AdminAjax.php:242
+#: includes/Admin/AdminAjax.php:264
+#: includes/Admin/AdminAjax.php:286
+#: includes/Admin/AdminAjax.php:308
+#: includes/Admin/AdminAjax.php:331
+#: includes/Admin/AdminAjax.php:354
+#: includes/Admin/AdminAjax.php:376
+#: includes/Admin/AdminAjax.php:398
+#: includes/Admin/AdminAjax.php:420
+#: includes/Admin/AdminAjax.php:442
+#: includes/Admin/AdminAjax.php:464
+#: includes/Admin/AdminAjax.php:487
+#: includes/Admin/AdminAjax.php:510
+#: includes/Admin/AdminAjax.php:532
+#: includes/Admin/AdminAjax.php:554
+#: includes/Admin/AdminAjax.php:576
+#: includes/Admin/AdminAjax.php:598
+#: includes/Admin/AdminAjax.php:620
+#: includes/Admin/AdminAjax.php:642
+#: includes/Admin/AdminAjax.php:664
+#: includes/Admin/AdminAjax.php:686
+#: includes/Core/Integration/WebHooks/WebHooksHandler.php:75
+#: includes/Core/Integration/ZohoCRM/ZohoCRMHandler.php:89
+#: includes/Core/Integration/ZohoCRM/ZohoCRMHandler.php:166
+#: includes/Core/Integration/ZohoCRM/ZohoCRMHandler.php:283
+#: includes/Frontend/Ajax/FrontendAjax.php:102
+msgid "Token expired"
+msgstr ""
+
+#: includes/Admin/Admin_Bar.php:35
+msgid "Bit Form - wordpress form builder and database management system"
+msgstr ""
+
+#: includes/Admin/Admin_Bar.php:38
+msgid "All Forms"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:51
+msgid "Template is not found!!  your provided template name is "
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:144
+#: includes/Admin/Form/AdminFormHandler.php:149
+msgid "Error Occured, Please Reload"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:175
+#: includes/Admin/Form/AdminFormHandler.php:405
+msgid "you can add maximum 2 workflows "
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:188
+msgid "Form is Empty, nothing to save"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:194
+msgid "Form Name Should Be Within 50 Characters"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:364
+msgid "Form Saved successfully"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:627
+msgid "Form update Failed"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:653
+msgid "Error Occured in saving %s"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:656
+msgid "Form updated successfully"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:674
+#: includes/Admin/Form/AdminFormHandler.php:710
+msgid "Form status change failed"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:693
+#: includes/Admin/Form/AdminFormHandler.php:729
+msgid "Form status changed successfully"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:768
+#: includes/Admin/Form/AdminFormHandler.php:979
+#: includes/Admin/Form/AdminFormHandler.php:1047
+#: includes/Admin/Form/AdminFormHandler.php:1124
+#: includes/Admin/Form/AdminFormHandler.php:1220
+#: includes/Admin/Form/AdminFormHandler.php:1288
+#: includes/Admin/Form/AdminFormHandler.php:1331
+msgid "Form id is Empty"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:772
+msgid "Form is not exists"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1037
+msgid "Form deleted successfully"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1102
+msgid "Forms deleted successfully"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1129
+#: includes/Admin/Form/AdminFormHandler.php:1224
+#: includes/Admin/Form/AdminFormHandler.php:1292
+#: includes/Admin/Form/AdminFormHandler.php:1335
+#: includes/Admin/Form/AdminFormHandler.php:1378
+#: includes/Admin/Form/AdminFormHandler.php:1444
+#: includes/Admin/Form/AdminFormHandler.php:1511
+#: includes/Admin/Form/AdminFormHandler.php:1596
+#: includes/Admin/Form/AdminFormHandler.php:1617
+msgid "provided form does not exists"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1206
+msgid "Form duplicated successfully"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1374
+#: includes/Admin/Form/AdminFormHandler.php:1439
+#: includes/Admin/Form/AdminFormHandler.php:1506
+#: includes/Admin/Form/AdminFormHandler.php:1591
+#: includes/Admin/Form/AdminFormHandler.php:1612
+#: includes/Admin/Form/AdminFormHandler.php:1633
+msgid "Form id or entries id is Empty"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1388
+msgid "Entry Deletetion prevented by  workflow"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1390
+#: includes/Admin/Form/AdminFormHandler.php:1397
+msgid "Entry Deleted successfully"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1394
+msgid "Entry Deleted successfully, Some prevented by workflow"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1424
+msgid "Form entry deletion failed"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1492
+msgid "Entry Duplicated successfully"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1492
+msgid "Entries Duplicated successfully"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1525
+#: includes/Core/Form/FormManager.php:343
+msgid "provided form entries does not exists"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1587
+msgid "Nothing to updata. Data is empty!!"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1667
+msgid "Integration deleted"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1690
+msgid "Message deleted"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1712
+msgid "workflow deleted"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1733
+msgid "Email Template deleted"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1754
+msgid "Email Template duplicated"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1831
+msgid "Report preferrences saved successfully"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1844
+msgid "g-ReCAPTCHA details is empty"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1864
+msgid "g-reCAPTCHA saved successfully"
+msgstr ""
+
+#: includes/Admin/Form/AdminFormHandler.php:1867
+msgid "g-reCAPTCHA updated successfully"
+msgstr ""
+
+#: includes/Core/Database/FormEntryLogModel.php:49
+#: includes/Core/Database/FormEntryLogModel.php:61
+#: includes/Core/Database/Model.php:39
+msgid "Form data is empty"
+msgstr ""
+
+#: includes/Core/Database/FormEntryModel.php:26
+#: includes/Core/Database/FormEntryModel.php:37
+#: includes/Core/Database/Model.php:286
+#: includes/Core/Database/Model.php:309
+#: includes/Core/Database/Model.php:329
+#: includes/Core/Database/Model.php:340
+msgid "At least 1 condition needed"
+msgstr ""
+
+#: includes/Core/Database/Model.php:137
+#: includes/Core/Database/Model.php:448
+msgid "Result is empty"
+msgstr ""
+
+#: includes/Core/Database/Model.php:161
+#: includes/Core/Database/Model.php:192
+msgid "Nothing to update"
+msgstr ""
+
+#: includes/Core/Database/Model.php:243
+msgid "Nothing to duplicate"
+msgstr ""
+
+#: includes/Core/Database/Model.php:426
+msgid "prepared query is empty"
+msgstr ""
+
+#: includes/Core/Form/FormManager.php:311
+msgid "Internal error occured!!!"
+msgstr ""
+
+#: includes/Core/Form/FormManager.php:416
+#: includes/Core/WorkFlow/WorkFlowRunHelper.php:237
+#: includes/Core/WorkFlow/WorkFlowRunHelper.php:285
+#: includes/Core/WorkFlow/WorkFlowRunHelper.php:429
+msgid "Entry Updated Successfully"
+msgstr ""
+
+#: includes/Core/Form/Validator/FormFieldValidator.php:33
+#: includes/Core/Form/Validator/FormFieldValidator.php:43
+msgid " is required."
+msgstr ""
+
+#: includes/Core/Form/Validator/FormFieldValidator.php:53
+msgid " should be an email. please provide a valid email address."
+msgstr ""
+
+#: includes/Core/Form/Validator/FormFieldValidator.php:62
+msgid " should be Time Format"
+msgstr ""
+
+#: includes/Core/Form/Validator/FormFieldValidator.php:71
+msgid " should be a phone number"
+msgstr ""
+
+#: includes/Core/Form/Validator/FormFieldValidator.php:80
+msgid " should be a number"
+msgstr ""
+
+#: includes/Core/Form/Validator/FormFieldValidator.php:89
+msgid " should be an URL"
+msgstr ""
+
+#: includes/Core/Form/Validator/FormFieldValidator.php:98
+msgid " should be a date"
+msgstr ""
+
+#: includes/Core/Integration/WebHooks/WebHooksHandler.php:70
+msgid "webhook url is empty"
+msgstr ""
+
+#: includes/Core/Integration/WebHooks/WebHooksHandler.php:72
+msgid "webhook executed succcessfully"
+msgstr ""
+
+#: includes/Core/Integration/ZohoCRM/RecordApiHelper.php:61
+msgid "%s is required for zoho crm, %s module"
+msgstr ""
+
+#: includes/Core/Integration/ZohoCRM/RecordApiHelper.php:72
+msgid "zoho crm field %s's maximum length is %s, Given %s"
+msgstr ""
+
+#: includes/Core/Integration/ZohoCRM/ZohoCRMHandler.php:384
+#: includes/Core/Integration/ZohoCRM/ZohoCRMHandler.php:389
+msgid "module, layout, fields are required for zoho crm api"
+msgstr ""
+
+#: includes/Core/Util/Activation.php:74
+msgid "Bitforms Pages"
+msgstr ""
+
+#: includes/Core/WorkFlow/WorkFlowRunHelper.php:236
+#: includes/Core/WorkFlow/WorkFlowRunHelper.php:284
+#: includes/Core/WorkFlow/WorkFlowRunHelper.php:428
+#: includes/Frontend/Ajax/FrontendAjax.php:81
+msgid "Form Submitted Successfully"
+msgstr ""
+
+#: includes/Frontend/Ajax/FrontendAjax.php:37
+#: includes/Frontend/Ajax/FrontendAjax.php:65
+msgid "Please verify reCAPTCHA"
+msgstr ""
+
+#: includes/Frontend/Ajax/FrontendAjax.php:94
+msgid "Form does not exist"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormHandler.php:34
+msgid "Your submission token was expired. please, submit again"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormManager.php:137
+msgid "Sorry!! Entry limit exceeded"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormManager.php:151
+msgid "Sorry!! You have already submitted"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormManager.php:200
+msgid "within %s to %s"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormManager.php:213
+msgid "%s to %s"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormManager.php:219
+#: includes/Frontend/Form/FrontendFormManager.php:222
+msgid "Form is available %s From %s"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormManager.php:220
+#: includes/Frontend/Form/FrontendFormManager.php:223
+msgid "Form is available %s"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormManager.php:225
+msgid "Form is available on %s"
+msgstr ""
+
+#: includes/Frontend/Form/FrontendFormManager.php:238
+#: includes/Frontend/Form/FrontendFormManager.php:250
+msgid "Sorry!! Your IP address is %s, Blocked from submitting the form"
+msgstr ""
+
+#: includes/Plugin.php:113
+msgid "Bitform Pages"
+msgstr ""
+
+#: includes/Plugin.php:170
+msgid "Docs"
+msgstr ""
